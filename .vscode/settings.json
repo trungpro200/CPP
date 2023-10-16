@@ -1,0 +1,9 @@
+{
+	"editor.insertSpaces": false,
+	"files.associations": {
+		"*.cpp": "cuda-cpp",
+		"iostream": "cpp",
+		"ostream": "cpp",
+		"*.tcc": "cpp"
+	}
+}
